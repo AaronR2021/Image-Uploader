@@ -1,10 +1,9 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About the project:
 
-In the project directory, you can run:
+this project uploads an image to firebase storage on the frontend, and produces a link of the image that is stored in the storage. 
+this link can be saved to your database.
 
 ### `npm start`
 
@@ -68,3 +67,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
